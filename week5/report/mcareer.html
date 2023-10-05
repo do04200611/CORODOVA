@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>HTML5 개인 포트폴리오 홈페이지</title>
+	<link rel="stylesheet" href="mportpolio.css"/>
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+	<div data-role="page" id="portfolioPage">
+		<div data-role="header" data-position="fixed">
+			<h1>김강현 홈페이지</h1>
+		</div>
+		<nav>
+			<span><a href="mcareer.html" onclick="c"> 경력 </a></span>
+			<span><a href="mstudy.html"> 학술 </a></span>
+			<span><a href="minfo.html"> 인적 </a></span>
+			<span><a href="mintro.html"> 소개 </a></span>
+		</nav>
+		<div class="content">
+			<section class="section1">  
+				<h3> 국문</h3>
+				<h4>취업 특화 프로그램</h4>
+
+				<ul>
+					<li>2023. 4~ 2024. 2 청해진 대학 (본과정)</li>
+				</ul>
+				<div id="pic-container">
+					<img id="pic1" class="semi-pic" src="seminar1.jpg"/>
+					<img id="pic2" class = "semi-pic" src="seminar2.jpg"/>
+					<img id="pic3" class="semi-pic" src="seminar3.jpg"/>
+				</div>		
+				<h4>알바</h4>
+				<ul>
+					<li>2020.7~8 하계 알바 참여(기장군청)</li>
+				</ul>		
+			</section>
+			<section>
+				<h3>日本語</h3>
+				<h4>就職特化プログラム</h4>
+				<ul>
+					<li>令和5年. 4~ 令和6年. チョンヘジン大学(本課程) 2 </li>
+				</ul>	
+				<h4>알바</h4>
+				<ul>
+					<li>令和2年.7 機張郡庁　入社(夏季アルバイト)</li>
+					<li>令和2年.8 機張郡庁　一身上の都合により退社（契約期間満了）</li>
+				</ul>		
+			</section>
+			<aside>
+				<h3>참조링크</h3>
+				<a href="https://blog.naver.com/11naeri2">
+					<img class="portal" src="naver.jpg" alt="네이버 블로그 이동"/>
+				</a>
+				<a href="https://github.com/do04200611?tab=repositories">
+					<img class="portal" src="GitHub-Logo.png" alt="git 사이트 이동"/>
+				</a>
+				<a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
+					<img class="portal" src="youtube.jpg" alt="유튜브 이동"/>
+				</a>
+			</aside>
+		</div>
+		<footer data-role="footer" data-position="fixed">
+			<h2>Copyright &copy; 2014 Hong, GilDong </h2>
+		</footer>
+	</div>
+
+	<script>
+		// 화면을 터치하면 툴바와 푸터를 보이게 합니다.
+		$(document).on("pagecreate", function () {
+			$(document).on("vclick", function () {
+				$("[data-role='header']").show();
+				$("[data-role='footer']").show();
+			});
+		});
+	</script>
+</body>
+</html>
