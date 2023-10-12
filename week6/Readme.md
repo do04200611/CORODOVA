@@ -1,8 +1,5 @@
 6주차 수업 레포트입니다.
 
-학과 소개앱 링크
-#file:///C:/Users/kimga/Desktop/dit/dokdo-intro.html
-
 사진 출처 
 
 학과 갤러리에 사용 <br>
