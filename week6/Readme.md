@@ -2,6 +2,10 @@
 동의과학대 학교 컴퓨터과를 소개하는 영상들입니다.<br>
 
 
+https://github.com/do04200611/CORODOVA/assets/74278578/d657cb05-6dff-4c17-9202-01e1297c6ebd
+
+
+
 
 
 사진 출처 
