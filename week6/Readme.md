@@ -2,7 +2,7 @@
 동의과학대 학교 컴퓨터과를 소개하는 영상입니다.<br>
 
 
-file:///C:/Users/kimga/Videos/Captures/%ED%95%99%EA%B3%BC%20%EC%86%8C%EA%B0%9C%EC%95%B1%20-%20Chrome%202023-10-19%2011-00-08.mp4
+#file:///C:/Users/kimga/Videos/Captures/%ED%95%99%EA%B3%BC%20%EC%86%8C%EA%B0%9C%EC%95%B1%20-%20Chrome%202023-10-19%2011-00-08.mp4
 
 사진 출처 
 
