@@ -11,4 +11,5 @@
 
 ### [실행 결과물 실행 영상](https://github.com/do04200611/CORODOVA/assets/74278578/eafa437d-8088-421f-a7d0-cf7f1bbc591d) <br>
 ### [그동안 실습 결과물 올린 제youtube](https://www.youtube.com/@user-fe8io4ch7v/featured)
+### [연습 문제실행 영상](https://www.youtube.com/watch?v=_kmerFPj_U4)
 
