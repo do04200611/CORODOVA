@@ -3,7 +3,8 @@
 <h5>페이지를 소개하는 영상과 사진을 같이 올렸습니다.</h5>
 ### [저를 소개하는 페이지입니다.]href="file:///C:/Users/kimga/Downloads/introduce.html="_blank" <br>
  <br>![image](https://github.com/do04200611/CORODOVA/assets/74278578/08af2403-019d-47cd-a41c-e433283249d7)
- <br>[image](https://github.com/do04200611/CORODOVA/assets/74278578/c360ebf6-2c9e-4b09-9f8e-3cfab4df907d)
+ <br> 
+ ![image](https://github.com/do04200611/CORODOVA/assets/74278578/c360ebf6-2c9e-4b09-9f8e-3cfab4df907d)
 
 
 
