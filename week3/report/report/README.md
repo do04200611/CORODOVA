@@ -1,8 +1,5 @@
 해당 디렉토리는 3주차 레포트를 모아놓은 파일입니다. <br>
 교재 연습 문제 영상이며,
 꽃과 바다 그림이 있는 사진이 있습니다.
- (https://github.com/do04200611/CORODOVA/assets/74278578/84e02f7e-d8d1-4008-88e1-bb42f07e2c6d)
-
-
 https://github.com/do04200611/CORODOVA/assets/74278578/f397bada-3ef6-4462-a5d5-38567f5174f8
 
