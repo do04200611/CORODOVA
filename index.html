@@ -3,6 +3,7 @@
   <head>
     <style>
       /* CSS for button styling */
+      /*버튼 스타일을 지정한 코드*/
         .button {
         display: inline-block;
         padding: 10px 20px;
@@ -18,14 +19,33 @@
         background-color: #99ffcc; /* Change background color on hover */
         cursor: pointer; /* Change cursor style on hover */
       }
-      .hidden {
-        display: none; /* Initially hide hidden buttons */
-      }
       .vertical-menu {
         display: flex;
         flex-direction: column;
         align-items: center;
       }
+      
+      /*호스팅 페이지로 가는 버튼을 보여주는 코드*/
+      .hostingpagebutton{
+         display: inline-block;
+        padding: 10px 20px;
+        background-color: #0074d9; /* Button background color */
+        color: #fff; /* Button text color */
+        text-decoration: none;
+        border: none;
+        border-radius: 5px;
+        margin: 5px;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+     .hostingpagebutton:hover {
+        background-color: #99ffcc; /* Change background color on hover */
+        cursor: pointer; /* Change cursor style on hover */
+      }
+      
+      /*이미지 스타일을 지정하는 코드*/
      .image {
         width: 30px; /* 이미지의 폭을 30px로 설정 */
         height: 30px; /* 이미지의 높이를 30px로 설정 */
@@ -64,8 +84,8 @@
       <a href="./week5/report/index.html" class="button">5주차</a>
       <a href="./week6/index.html" class="button">6주차</a>
       <a href="./gitsourcecode/index.html" class="button">git에 소스코드로 파일들 올리기</a>
-      <button class="button" id="toggleButton">다른 호스팅 페이지</button>
     </div>
+     <button class="hostingpagebutton" id="toggleButton">다른 호스팅 페이지</button>
     <div class="hidden" id="hiddenButtons">
       <!-- Code for 2주차 -->
       <a href="https://do04200611.github.io/MobilePorjectReport/" class="button">2023년 1학기 모바일 프로젝트 호스트 페이지</a>
