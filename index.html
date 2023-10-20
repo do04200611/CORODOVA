@@ -150,6 +150,30 @@
     changeBackgroundColor(); // 초기 배경 색상 설정
     setInterval(changeBackgroundColor, 5000); // 5초마다 배경 색상 변경
   }
+  //실험 코드    
+  const textElement = document.getElementById('changingText');
+
+  // 텍스트 목록
+  const texts = [
+    "私の長所は常に努力することです。",
+    "さらに、学んだ内容を実際に活用して実力を向上させるために大学の「DITブートキャンプコンテスト(チームを組んでウェブページやアプリを作って提出する大会です)」 に参加しました。",
+    "その結果、入賞することができました。",
+    "저의 장점은 항상 노력하는 것입니다.더불어 배운 내용을 실제로 활용하여 실력을 향상시키기 위하여 대학의 'DIT 부트캠프 콘테스트(팀을 이루어 웹페이지나 앱을 만들어 제출하는 대회입니다)'에 참가하였습니다.그 결과 입상할 수 있었습니다.",
+  ];
+
+  let currentIndex = 0;
+
+  // 텍스트 변경 함수
+  function changeText() {
+    textElement.textContent = texts[currentIndex];
+    currentIndex = (currentIndex + 1) % texts.length;
+  }
+
+  // 페이지 로드 후 5초마다 텍스트 변경
+  window.onload = function () {
+    changeText(); // 초기 텍스트 설정
+    setInterval(changeText, 5000); // 5초마다 텍스트 변경
+  }
     </script>
   </body>
 </html>
