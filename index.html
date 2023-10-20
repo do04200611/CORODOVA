@@ -90,13 +90,8 @@
       <img  class="image" src="https://i.pinimg.com/originals/24/24/12/242412a32af5cca3cb114cfee0cd3d8b.png"/>
     </a>
     
-    <!--자기 소개 코드(한국어 버전) -->
     <p id="changingText">안녕하십니까 저는 동의과학대학교 컴퓨터학과 2년제 김강현이라고 합니다.</p>
-    <p id="changingText">github 영상이며, 제가 지금까지 해온 실습 영상을 올렸습니다.</p>
-    
-    <!--자기 소개 코드(일어 버전) -->
-    <p id="changingText">こんにちは初めまして、私は東義科学大学コンピューター学科二年生キムガンヒョンと申します。私は多数の校内大会に参加しており、夜遅くまで勉強をしています。</p> 
-    <p id="changingText">このような私の真面目さで御社に貢献できると思います。</p>
+
 
     <div class="vertical-menu">
       <!--해당 호스팅 페이지의 git 디렉토리로 이동시키는 코드 -->
@@ -132,7 +127,9 @@
       } else {
         hiddenButtons.style.display = 'none';
       }
-    });      
+    });
+      
+   // 실험용용  
   // 배경 색상 목록
   const colors = ["#0074d9", "#99ffcc", "#ff8080", "#ffcc99", "#b3b3cc"];
   let currentIndex = 0;
@@ -148,7 +145,8 @@
     changeBackgroundColor(); // 초기 배경 색상 설정
     setInterval(changeBackgroundColor, 5000); // 5초마다 배경 색상 변경
   }
-   // 실험용 코드 
+      
+  //실험용 코드
   const textElement = document.getElementById('changingText');
 
   // 텍스트 목록
