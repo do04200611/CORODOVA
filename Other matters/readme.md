@@ -11,7 +11,9 @@
 <body>
     <table>
          <tr>
-            <th colspan="2">![증명사진(양복)](https://github.com/do04200611/CORODOVA/assets/74278578/2f7551db-06da-45f7-baca-3b032742eea5)</th>
+            <th colspan="2">
+                ![증명사진(양복)](https://github.com/do04200611/CORODOVA/assets/74278578/205f2c54-7373-43bf-8164-fb5e646d0438)
+            </th>
         </tr>
         <tr>
             <th colspan="2">履歴書</th>
