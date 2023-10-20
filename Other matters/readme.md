@@ -5,6 +5,8 @@
 ### [github 호스팅 사이트 주소 입니다.](https://do04200611.github.io/CORODOVA/)
 ### [2023년 1학기 모바일 호스트 페이지입니다.](https://do04200611.github.io/MobilePorjectReport/)
 
+![증명사진(양복)](https://github.com/do04200611/CORODOVA/assets/74278578/2a1efeec-87cc-4ad4-abb0-ec9cd3c74ee5)
+
 <html>
 <head>
 </head>
@@ -13,8 +15,6 @@
         <tr>
             <th colspan="2">履歴書</th>
             <td colspan="4">令和5年 6月 27日 現在</td>
-            ![증명사진(양복)](https://github.com/do04200611/CORODOVA/assets/74278578/2f7551db-06da-45f7-baca-3b032742eea5)
-
         </tr>
         <tr>
             <th>フリガナ</th>
