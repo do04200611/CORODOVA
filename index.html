@@ -18,6 +18,9 @@
         background-color: #99ffcc; /* Change background color on hover */
         cursor: pointer; /* Change cursor style on hover */
       }
+      .hidden {
+        display: none; /* Initially hide hidden buttons */
+      }
       .vertical-menu {
         display: flex;
         flex-direction: column;
@@ -62,7 +65,7 @@
       <a href="./week6/index.html" class="button">6주차</a>
       <a href="./gitsourcecode/index.html" class="button">git에 소스코드로 파일들 올리기</a>
     </div>
-    <div class="code-section" id="code-section-1">
+    <div class="hidden" id="hiddenButtons">
       <!-- Code for 2주차 -->
       <a href="https://do04200611.github.io/MobilePorjectReport/" class="button">2023년 1학기 모바일 프로젝트 호스트 페이지</a>
       <a href="https://do04200611.github.io/BackEndTeamProject/" class="button">2023년 1학기 백앤드 팀 프로젝트 호스트 페이지</a>
@@ -70,16 +73,16 @@
     </div>
 
     <script>
-      function toggleCodeSection(sectionId) {
-        // Hide all code sections
-        for (let i = 1; i <= 5; i++) {
-          const codeSection = document.getElementById(`code-section-${i}`);
-          codeSection.style.display = 'none';
-        }
+      const toggleButton = document.getElementById('toggleButton');
+    const hiddenButtons = document.getElementById('hiddenButtons');
 
-        // Show the selected code section
-        const selectedCodeSection = document.getElementById(`code-section-${sectionId}`);
-        selectedCodeSection.style.display = 'block';
+    toggleButton.addEventListener('click', () => {
+      if (hiddenButtons.style.display === 'none') {
+        hiddenButtons.style.display = 'block';
+      } else {
+        hiddenButtons.style.display = 'none';
       }
+    });
+    </script>
   </body>
 </html>
