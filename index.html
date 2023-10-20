@@ -54,7 +54,12 @@
         background-color: #99ffcc; /* Change background color on hover */
         cursor: pointer; /* Change cursor style on hover */
       }
-      
+
+  /* 추가한 CSS 스타일 */
+      body {
+        transition: background-color 1s; /* 배경색이 부드럽게 변경되도록 설정 */
+      }
+
     </style>
   </head>
   <body>
@@ -128,6 +133,23 @@
         hiddenButtons.style.display = 'none';
       }
     });
+      
+   // 실험용용  
+  // 배경 색상 목록
+  const colors = ["#0074d9", "#99ffcc", "#ff8080", "#ffcc99", "#b3b3cc"];
+  let currentIndex = 0;
+
+  // 배경 색상 변경 함수
+  function changeBackgroundColor() {
+    document.body.style.backgroundColor = colors[currentIndex];
+    currentIndex = (currentIndex + 1) % colors.length;
+  }
+
+  // 페이지 로드 후 5초마다 배경 색상 변경
+  window.onload = function () {
+    changeBackgroundColor(); // 초기 배경 색상 설정
+    setInterval(changeBackgroundColor, 5000); // 5초마다 배경 색상 변경
+  }
     </script>
   </body>
 </html>
