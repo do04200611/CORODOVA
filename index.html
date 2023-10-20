@@ -61,9 +61,25 @@
       <a href="./week5/report/index.html" class="button">5주차</a>
       <a href="./week6/index.html" class="button">6주차</a>
       <a href="./gitsourcecode/index.html" class="button">git에 소스코드로 파일들 올리기</a>
+    </div>
+    <div class="code-section" id="code-section-1">
+      <!-- Code for 2주차 -->
       <a href="https://do04200611.github.io/MobilePorjectReport/" class="button">2023년 1학기 모바일 프로젝트 호스트 페이지</a>
       <a href="https://do04200611.github.io/BackEndTeamProject/" class="button">2023년 1학기 백앤드 팀 프로젝트 호스트 페이지</a>
       <a href="https://do04200611.github.io/JavaScript/" class="button">2023년 1학기 과제 호스트 페이지</a>
     </div>
+
+    <script>
+      function toggleCodeSection(sectionId) {
+        // Hide all code sections
+        for (let i = 1; i <= 5; i++) {
+          const codeSection = document.getElementById(`code-section-${i}`);
+          codeSection.style.display = 'none';
+        }
+
+        // Show the selected code section
+        const selectedCodeSection = document.getElementById(`code-section-${sectionId}`);
+        selectedCodeSection.style.display = 'block';
+      }
   </body>
 </html>
