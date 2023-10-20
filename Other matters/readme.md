@@ -8,7 +8,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>履歴書</title>
 </head>
 <body>
     <table>
