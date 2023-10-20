@@ -132,7 +132,12 @@
     <script>
        //다른 호스팅 페이지로 이동시키는 버튼 코드 부분
        const toggleButton1 = document.getElementById('toggleButton1');
+       const toggleButton2 = document.getElementById('toggleButton2');
        const hiddenButtons1 = document.getElementById('hiddenButtons1');
+       const hiddenButtons2 = document.getElementById('hiddenButtons2');
+
+    
+
        //실험용
        
         // 페이지 로드 시 실행
@@ -153,6 +158,16 @@
               hiddenButtons1.style.display = 'none';
             }
           });
+      
+          toggleButton2.addEventListener('click', () => {
+            if (hiddenButtons2.style.display === 'none' || hiddenButtons2.style.display === '') {
+              hiddenButtons2.style.display = 'block';
+              hiddenButtons1.style.display = 'none'; // 숨김
+            } else {
+              hiddenButtons2.style.display = 'none';
+            }
+          });
+        });
       
       
       // 배경 색상 목록
