@@ -13,6 +13,8 @@
         <tr>
             <th colspan="2">履歴書</th>
             <td colspan="4">令和5年 6月 27日 現在</td>
+            ![증명사진(양복)](https://github.com/do04200611/CORODOVA/assets/74278578/2f7551db-06da-45f7-baca-3b032742eea5)
+
         </tr>
         <tr>
             <th>フリガナ</th>
