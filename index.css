@@ -51,6 +51,10 @@
   cursor: pointer; /* Change cursor style on hover */
 }
 
+.myimage{
+  width: 70px; /* 이미지의 폭을 70px로 설정 */
+  height: 70px; /* 이미지의 높이를 70px로 설정 */
+}
 /* 추가한 CSS 스타일 */
 body {
   transition: background-color 1s;
