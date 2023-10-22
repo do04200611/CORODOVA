@@ -112,21 +112,4 @@ const nextButton = document.getElementById('nextButton');
 previousButton.addEventListener('click', previousVideo);
 nextButton.addEventListener('click', nextVideo);
 
-//세로 메뉴바에서 메뉴 열기 버튼을 메뉴 닫기로 바뀌는 코드
 
-document.addEventListener('DOMContentLoaded', function () {
-  const menuButton = document.getElementById('menu-button');
-  const verticalMenu = document.querySelector('.vertical');
-
-  menuButton.addEventListener('click', function () {
-    if (verticalMenu.style.right === '-250px' || verticalMenu.style.right === '') {
-      verticalMenu.style.right = '0'; /* 메뉴를 오른쪽에서 보이도록 함 */
-      verticalMenu.classList.remove('hidden');
-      menuButton.textContent = '메뉴 닫기'; // 버튼 텍스트를 변경
-    } else {
-      verticalMenu.style.right = '-250px'; /* 메뉴를 다시 숨김 */
-      verticalMenu.classList.add('hidden');
-      menuButton.textContent = '메뉴 열기'; // 버튼 텍스트를 변경
-    }
-  });
-});
