@@ -19,12 +19,13 @@ const hiddenButtons3 = document.getElementById('hiddenButtons3');
 
    const toggleButton1 = document.getElementById('toggleButton1');
    const toggleButton2 = document.getElementById('toggleButton2');
-   const toggleButton3 = document.getElementById('toggleButton');
+   const toggleButton3 = document.getElementById('toggleButton3');
   
    toggleButton1.addEventListener('click', () => {
      if (hiddenButtons1.style.display === 'none' || hiddenButtons1.style.display === '') {
        hiddenButtons1.style.display = 'block';
        hiddenButtons2.style.display = 'none'; // 숨김
+       hiddenButtons3.style.display = 'none'; // 숨김
      } else {
        hiddenButtons1.style.display = 'none';
      }
@@ -34,6 +35,7 @@ const hiddenButtons3 = document.getElementById('hiddenButtons3');
      if (hiddenButtons2.style.display === 'none' || hiddenButtons2.style.display === '') {
        hiddenButtons2.style.display = 'block';
        hiddenButtons1.style.display = 'none'; // 숨김
+       hiddenButtons3.style.display = 'none'; // 숨김
      } else {
        hiddenButtons2.style.display = 'none';
      }
