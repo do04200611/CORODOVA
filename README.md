@@ -9,8 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611&show_icons=true&theme=radical)
 
-<div align="center" style="text-align:center">
-  //  위 아래 한칸씩 꼭 비워야 함.
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${velog닉네임}&tag=${태그}&color=${테마})](${링크 url})
-  //  위 아래 한칸씩 꼭 비워야 함.
-</div>
+
