@@ -1,6 +1,11 @@
 # CORODOVA
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 - Android Studio
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+- HTML5
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+- JavaScript
+
 
 # 모바일 수업하면서 들었던 과제를 올려놓은 걸 모아놓은 레파지토리입니다.
 #
