@@ -1,4 +1,6 @@
 # CORODOVA
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
 
 # 모바일 수업하면서 들었던 과제를 올려놓은 걸 모아놓은 레파지토리입니다.
 #
