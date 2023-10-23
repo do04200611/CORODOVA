@@ -1,5 +1,5 @@
 # CORODOVA
-
+![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
 # 모바일 수업하면서 들었던 과제를 올려놓은 걸 모아놓은 레파지토리입니다.
 #
 ### [실습영상 올린 유튜브 주소입니다.](https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA)<br>
