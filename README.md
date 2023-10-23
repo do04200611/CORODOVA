@@ -7,6 +7,5 @@
 ### [github 호스팅 사이트 주소 입니다.](https://do04200611.github.io/CORODOVA/)
 ### [2023년 1학기 모바일 호스트 페이지입니다.](https://do04200611.github.io/MobilePorjectReport/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611&show_icons=true&theme=radical)
 
 
