@@ -7,3 +7,5 @@
 
  모바일 수업 9주차 과제를 만들었습니다.
 https://www.youtube.com/watch?v=-lsguHOJkxY
+
+https://do04200611.github.io/CORODOVA/week9/index.html#gallery
