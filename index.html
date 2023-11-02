@@ -1,91 +1,204 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-  <head>
-    <link rel="stylesheet" href="index.css">
-    <meta chraset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pratice</title>
-  </head>
-  <body>
-    
-    <!-- Image display with a hyperlink -->
-    <!--학교 홈페이지로 이동시키는 코드 -->
-    <a href="https://www.dit.ac.kr/kr">
-      <img class="image" src="https://i.namu.wiki/i/3aLWeLRv7F_yqLovaN5TyyuQvP33rDQC1gygNpSN9efhTzBsBG4WTdTK-vZDT0vaDDLaP45do6scdbur4xk2Mg.svg"/>
-    </a>
-    
-     <!--학과 홈페이지로 이동시키는 코드 -->
-     <a href="https://www.dit.ac.kr/cs/">
-      <img class="image" src="data:image/png;base64,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"/>
-    </a>
-    
-   <!--해당 호스팅 페이지 github 레파지토리로 이동시키는 코드 -->
-    <a href="https://github.com/do04200611/CORODOVA/tree/main">
-      <img class="image" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-    </a>
-    
-   <!--해당 호스팅 페이지 github로 이동시키는 코드 -->
-    <a href="https://github.com/do04200611">
-      <img class="image" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-    </a>
-    
-    <!--김강현의 IT 학습 체널로 이동시키는 코드 -->
-    <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
-      <img  class="image" src="https://i.pinimg.com/originals/24/24/12/242412a32af5cca3cb114cfee0cd3d8b.png"/>
-    </a>
-    <button id="menu-button">메뉴 열기</button>
-    <div class="hidden vertical menu">
-      <a href="./week2/report/index.html" class="button">2주차</a>
-      <a href="./week3/report/index.html" class="button">3주차</a>
-      <a href="./week5/report/index.html" class="button">5주차</a>
-      <a href="./week6/index.html" class="button">6주차</a>
-      <a href="./gitsourcecode/index.html" class="button">git에 소스코드로 파일들 올리기</a>
-    </div>
-    <p id="changingText">私は多読です。</p>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title>jQuery Mobile</title>
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<style>
+   li { list-style:none; }
+  .picture { list-style:none; padding:0; margin:0; }
+  .picture li { float:left; width:50%;}
+  .picture li a {display:block; margin:5px; border: 1px }
+  .picture li img { display:block; width:50%;  height:auto;}
+  .picture li img:hover { display:block; width:100%;  height:auto;} 
+</style>
+</head>
 
-     
-  
-      <div class="vertical-menu">
-        <div class="button-row">
-          <button class="hostingpagebutton" id="toggleButton1">다른 호스팅 페이지</button>
-          <button class="hostingpagebutton" id="toggleButton2">그 외 김강현의 관해서 보고 싶다면...</button>
-          <button class="hostingpagebutton" id="toggleButton3">호스팅 페이지에 대해서 알고 싶다면.....</button>
-        </div>
-      </div>
-    <!--호스팅페이지로 이동하는 코드 -->
-    <div class="hidden" id="hiddenButtons1">
-      <a href="https://do04200611.github.io/MobilePorjectReport/" class="button">2023년 1학기 모바일 프로젝트 호스트 페이지</a>
-      <a href="https://do04200611.github.io/BackEndTeamProject/" class="button">2023년 1학기 백앤드 팀 프로젝트 호스트 페이지</a>
-      <a href="https://do04200611.github.io/JavaScript/" class="button">2023년 1학기 과제 호스트 페이지</a>
-      <a href="https://do04200611.github.io/arduino/" class="button">2023년 2학기에 배운 nodemcu를 활용 호스트 페이지</a>
-      <a href="https://do04200611.github.io/otherdata/" class="button">2023년 2학기에 배운 모바일 과제 모아놓은 호스페이지</a>
-      <a href="https://do04200611.github.io/otherdata/" class="button">다른 언어를 쓰지 않으면서 배운 자료들</a>
-    </div>
-    
-    <div class="hidden" id="hiddenButtons2">
-      <a href="https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit" class="button">git sourcecode 파일 올리기</a>
-       <a href="https://www.canva.com/design/DAFvPmStsCI/cBO4v45eb89npMEg7qsFoQ/edit" class="button">자기 소개 파일</a>
-       <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA" class="button">김강현의 IT 학습</a>
-      <a href="https://do04200611.github.io/otherdata/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%84%A4%EA%B3%84(%EB%8F%84%EC%84%9C%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC%20%EC%95%B1)202032291%EA%B9%80%EA%B0%95%ED%98%84.pdf" class="button">시스템 분석 및 설계 자료</a>
-    </div>
-     <div class="hidden" id="hiddenButtons3">
-       <a href="./week2/report/index.html" class="button">2주차</a>
-      <a href="./week3/report/index.html" class="button">3주차</a>
-      <a href="./week5/report/index.html" class="button">5주차</a>
-      <a href="./week6/index.html" class="button">6주차</a>
-         <a href="./week9/index.html" class="button">6주차</a>
-    
-      <a href="./gitsourcecode/index.html" class="button">git에 소스코드로 파일들 올리기</a>
-    </div>
-    <div id="player">
-    </div>
-    <div class="vertical-menu">
-    <div class="button-row">
-      <button id="previousButton">이전</button>
-      <script src="https://www.youtube.com/iframe_api"></script>
-      <button id="nextButton">다음</button>
-    </div>
-    </div>
-    <script type="text/javascript" src="index.js"></script> 
-    </body>
+<body>
+<div data-theme="b">
+	<div data-role="page" id="home">
+		<div data-role="header" data-theme="b">
+			<h1>독도 소개 앱</h1>
+		</div>
+		<div data-role="content" style="text-align:center">
+				<img src="bgdokdo1.png" >
+			<ul data-role="listview" data-inset="true">
+				<li><a href="#intro">독도소개</a></li>
+				<li><a href="#movie" data-rel="dialog">독도영상</a></li>
+				<li><a href="#wizard3-1" data-rel="dialog">독도음악</a></li>
+				<li><a href="#gallery">독도사진</a></li>
+			</ul>
+		</div>
+		<div data-role="footer" data-position="fixed" data-theme="b">
+			<h1>독도사랑_홍길동</h1>
+		</div>
+	</div>
+	
+	<div data-role="page" id="intro" data-theme="b">
+		<div data-role="header" data-theme="b">
+			<a href="#home" data-icon="arrow-l" data-direction="reverse">처음</a>			
+			<h1>독소 소개</h1>
+		</div>
+		<div data-role="content">
+				<div  style="text-align:center">
+					<img src="bgdokdo2.png">
+				</div>			
+			<div data-role="collapsible-set" data-theme="b" data-content-theme="e">
+				<div data-role="collapsible" data-collapsed="false">
+					<h3>독도역사</h3>
+					<p>독도(獨島)라는 명칭은 한국어와 중국어 화자들이 일반적으로 사용하는 이름이다. 인도유럽어권에서는 리앙쿠르 바위섬, 일본어권에서는 다케시마 섬이라 부른다. 20세기 초까지는 독도, 석도 또는 마쓰시마라고 불리었다.  ..생략</p>
+				</div>
+				<div data-role="collapsible">
+					<h3>독도지리</h3>
+					<p>독도는 주로 두 개의 섬으로 이루어지며 150 미터 떨어진 두 섬은 동도와 서도로 불린다. 약 90개의 섬과 암초로 이루어진 신생대 화산암으로 구성되어 있다.독도는 동경 약 131゜52′ 위도 약 37゜14′에 위치한다.  ..생략</p>
+				</div>
+				<div data-role="collapsible" >
+					<h3>독도생활</h3>
+					<p>900명이 넘는 한국인 시민들이 이 섬에 거주하며, 실제로 영구거주를 하는 사람은 단 두 사람이다. 한국정부는 거주 주장을 하기 위하여 이들에게 보조금을 지불하고 있다.  ..생략</p>
+				</div>
+			</div>
+		</div>
+		<div data-role="footer" data-position="fixed" data-theme="b">
+			<h1>독도사랑_홍길동</h1>
+		</div>		
+	</div>
+	
+	<div data-role="page" id="movie" data-theme="b">
+		<div data-role="header" data-position="fixed" data-theme="b">
+			<h1>독도 영상</h1>
+		</div>
+		<div data-role="content" >
+			<div class="ui-bar ui-bar-a">외교부 독도 소개 동영상</div><br/>
+			<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+			<div class="ui-bar ui-bar-a">플래시몹(서울역광장) 동영상</div><br/>
+			<li><video controls width="100%" preload="metadata">
+				<source src="mop.mp4" type="video/mp4">
+			</video></li>
+		</div>
+		<div data-role="footer" data-theme="b">
+		</div>
+	</div>
+	
+	<div data-role="page" id="wizard3-1">
+		<div data-role="header">
+			<h1>독도 노래1</h1>
+		</div>
+		<div data-role="content">
+			<div class="ui-bar ui-bar-e">홀로 아리랑</div><br/>
+			<audio controls width="100%" preload="metadata">
+				<source src="arirangalone.mp3" type="audio/mp3">
+			</audio>	
+			<img src="3-1.jpg" alt="" width="100%">
+		</div>
+		<div data-role="footer">
+			<a href="#home"  data-direction="reverse">이전</a>
+			<a href="#wizard3-2" data-rel="dialog" data-transition="slide">다음</a>
+		</div>
+	</div>
+
+	<div data-role="page" id="wizard3-2">
+		<div data-role="header">
+			<h1>독도 노래2</h1>
+		</div>
+		<div data-role="content">
+			<div class="ui-bar ui-bar-e">독도는 우리땅</div><br/>
+			<audio controls width="100%" preload="metadata">
+				<source src="dockdo.mp3" type="audio/mp3">
+			</audio>			
+			<img src="3-2.jpg" alt="" width="100%">
+		</div>
+		<div data-role="footer">
+			<a href="#wizard3-1"  data-direction="reverse">이전</a>
+			<a href="#home">처음</a>
+		</div>
+	</div>
+
+	<div data-role="page" id="gallery"  data-theme="b">
+		<div data-role="header" data-position="fixed"  data-theme="b">
+			<a href="#home" data-icon="arrow-l" data-direction="reverse">처음</a>
+			<h1>독도 갤러리</h1>
+		</div>
+		<button id="showImageBtn">이미지 표시</button>
+		<button id="fadeOut"> fadeOut </button>	
+		<button id="fadeIn"> fadeIn </button>
+	<button id="fadeToggle"> fadeToggle </button>
+		<div id="imageContainer"></div>	
+	</div>
+	<div>
+		<img id="img1" src="4-1.jpg">
+		 <img id="img2" src="4-.jpg">
+   </div>
+</div>	
+<script>
+	$(document).ready(function() {
+		// 이미지 파일 이름들
+		var imageFiles = ["4-1.jpg", "4-2.jpg", "4-3.jpg", "4-4.jpg", "4-5.jpg", "4-6.jpg", "4-7.jpg", "4-8.jpg", "4-9.jpg", "4-10.jpg"];
+	
+		// 이미지 로드 함수
+		function loadImage(imageFile) {
+			return new Promise(function(resolve, reject) {
+				var image = new Image();
+				image.src = imageFile;
+				image.onload = function() {
+					resolve(image);
+				};
+				image.onerror = function() {
+					reject("이미지 로드 실패: " + imageFile);
+				};
+			});
+		}
+	
+		// 이미지들을 병렬로 로드
+		function loadImages(imageFiles) {
+			var promises = imageFiles.map(function(imageFile) {
+				return loadImage(imageFile);
+			});
+			return Promise.all(promises);
+		}
+	
+		// 이미지를 표시하는 함수
+		function displayImages(images) {
+			var imageContainer = $("#imageContainer");
+			imageContainer.empty();
+			images.forEach(function(image) {
+				// 마우스 진입 및 이탈 이벤트 핸들러를 등록
+				$(image).hover(function() {
+					$(this).css("width", "200px"); // 마우스 진입: 이미지 크기 확대
+				}, function() {
+					$(this).css("width", "100px"); // 마우스 이탈: 이미지 크기 복원
+				});
+	
+				imageContainer.append(image);
+			});
+		}
+	
+		// 버튼 클릭 이벤트 처리
+		$("#showImageBtn").click(function() {
+			loadImages(imageFiles)
+				.then(function(images) {
+					displayImages(images);
+				})
+				.catch(function(error) {
+					console.error("이미지 로드 중 오류 발생: " + error);
+				});
+		});
+	});
+	$('#fadeOut').click(function() {
+		$('#img1').fadeOut(2000, function() {
+			$('#img2').fadeIn(100);							
+		});
+		$('#fadeIn').click(function() {
+			$('#img2').fadeOut(2000, function() {
+				$('#img1').fadeIn(100);							
+			});
+	});		
+	$('#fadeToggle').click(function() {
+			$('#img1').fadeToggle(1000);
+	});	
+});	
+</script>
+</body>
 </html>
