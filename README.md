@@ -22,3 +22,20 @@
    |[갤러리를 소개한 웹 페이지](https://do04200611.github.io/CORODOVA/week9/index.html#gallery](https://www.youtube.com/watch?v=-lsguHOJkxY))|9주차|자바스크립트와 제이쿼리를 이용하여 갤러리 꾸미기|
   |[cal 주식회사를 소개하는 앱입니다.](https://do04200611.github.io/CORODOVA/week10/CalMainPage.html)|10주차|회사를 소개하는 앱<br>(참고한 회사 사이트 [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))  |
 
+ <p align="center">
+  📞 Contact 📞
+  📞82-010-3037-9096📞
+</p>
+
+<p align="center">
+
+ <a href="https://www.canva.com/design/DAFzY5opUiA/Ge33dSKE16cErBaDJDp-BA/edit">
+    <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva" alt="canva">
+  </a>
+  <a href="mailto:a01030379096@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
+  </a>
+  <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
+   <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
+ </a>
+</p>
