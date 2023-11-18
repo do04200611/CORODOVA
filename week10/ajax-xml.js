@@ -1,4 +1,4 @@
-$(document).ready( function() {  
+ (function() {  
 	$('#btnLoad1').click( function() {		
 		$.ajax({
 			url: 'ajax-stuinfo.xml',
