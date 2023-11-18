@@ -23,7 +23,7 @@
   |[cal 주식회사를 소개하는 앱입니다.](https://do04200611.github.io/CORODOVA/week10/CalMainPage.html)|10주차|회사를 소개하는 앱<br>(참고한 회사 사이트 [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))  |
 
  <p align="center">
-  📞 Contact 📞
+  📞 Contact 📞<br>
   📞82-010-3037-9096📞
 </p>
 
