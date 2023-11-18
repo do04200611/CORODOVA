@@ -30,7 +30,7 @@
 <p align="center">
 
  <a href="https://www.canva.com/design/DAFzY5opUiA/Ge33dSKE16cErBaDJDp-BA/edit">
-    <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva" alt="canva">
+    <img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva">
   </a>
   <a href="mailto:a01030379096@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
