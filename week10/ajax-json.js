@@ -1,4 +1,4 @@
-$(document).ready( function() {  
+ function() {  
 	$('#btnLoad2').click( function() {		
 		$.getJSON('ajax-stuinfo.json', function(jsonData) {
 			var tagList = "";
