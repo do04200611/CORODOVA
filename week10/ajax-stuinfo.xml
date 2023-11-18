@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stuinfo>
+    <student>
+        <gradepoint>オープン系</gradepoint> 
+    </student>
+    <student>
+        <gradepoint>Web系</gradepoint> 
+    </student>
+    <student>
+        <gradepoint>制御・組込系</gradepoint> 
+    </student>
+     <student>
+        <gradepoint>汎用系</gradepoint> 
+    </student>
+    <student>
+        <gradepoint>SV・NW・DB</gradepoint> 
+    </student>           
+</stuinfo>

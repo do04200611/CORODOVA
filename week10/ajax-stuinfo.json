@@ -1,0 +1,11 @@
+{
+	"stuinfo" : [
+	    {"schoolyear":"OS"}, 
+	    {"schoolyear":"言語"}, 
+	    {"schoolyear":"データベース"}, 
+		 {"schoolyear":"その他技術"},
+		 {"schoolyear":"インフラ関連"},
+		 {"schoolyear":"クラウド関連"}
+		  
+	]
+}	
