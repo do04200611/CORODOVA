@@ -7,7 +7,7 @@
   |  <a href="https://www.youtube.com/watch?v=ah_3dDTJiFE"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube"> </a>|9月|실습 영상 |
 
  <p align="center">
- ## 📞 Contact 📞
+  📞 Contact 📞
   📞82-010-3037-9096📞
 </p>
 
