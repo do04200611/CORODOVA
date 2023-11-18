@@ -31,8 +31,8 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
   </a>
   <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
-   <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
- </a>
+   <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"  alt="YouTube">
+ </a> <br>
    | ポートフォリオ           |  作る期間     |            説明  |
   |------------------------|---------------|----------------------------------------------|
   |<a href="https://kimganghyeon.my.canva.site/kimganghyeon"><img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva"></a>|11月|ウェブバージョン|
