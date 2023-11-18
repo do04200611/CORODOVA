@@ -19,7 +19,7 @@
 
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
-  | ###[저를 소개하는 페이지입니다.](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit) |2주차 과제 |프로젝트 툴 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva) 사용 |
+  | ### [저를 소개하는 페이지입니다.](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit) |2주차 과제 |프로젝트 툴 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva) 사용 |
   | javaプロジェクト          | 11月 ~ 12月 | チケット販売プログラム |
   | javascriptプロジェクト | 11月 ~ 12月 | マイレージ登録機    |
   | databaseプロジェクト          | 11月 ~ 12月 | 野球日程管理プログラム |
