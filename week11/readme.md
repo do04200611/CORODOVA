@@ -22,6 +22,7 @@ cordova 프로젝트 띄우기
  </a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=100&text=Thank%20you%20for%20watching.&section=footer" />
+
 ![image](https://github.com/do04200611/CORODOVA/assets/74278578/887d707b-ec68-4504-a30d-79ea3c5258e6)
 
 
