@@ -1,5 +1,6 @@
 cordova 프로젝트 띄우기
-
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=10주차%20회사%20소개%20앱)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Challenge+And+Lead)](https://git.io/typing-svg)<br>
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
  |![cordova](https://do04200611.github.io/CORODOVA/week11/index.html)|11주차|
