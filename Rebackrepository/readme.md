@@ -21,7 +21,7 @@
   | [저를 소개하는 웹 페이지입니다.](https://do04200611.github.io/CORODOVA/week3/report/index.html)|3주차 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 자기소개글  |
   |[2023년 1학기 모바일 호스트 페이지입니다.](https://www.youtube.com/watch?v=k3KVArHfM6E)|5주차|페이지네이션을 이용한 자기소개글 |
    |[갤러리를 소개한 웹 페이지](https://do04200611.github.io/CORODOVA/week9/index.html#gallery](https://www.youtube.com/watch?v=-lsguHOJkxY))|9주차|자바스크립트와 제이쿼리를 이용하여 갤러리 꾸미기|
-  |[cal 주식회사를 소개하는 앱입니다.](https://656f2b6cacd22808559d1de6--tiny-blancmange-df728e.netlify.app/)|10주차|회사를 소개하는 앱<br>(참고한 회사 사이트 [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))  |
+  |[cal 주식회사를 소개하는 앱입니다.](https://calcompany.netlify.app/)|10주차|회사를 소개하는 앱<br>(참고한 회사 사이트 [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))  |
  | [cordova](https://do04200611.github.io/CORODOVA/week11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-26%20101950.png)|11주차|코도바를 띄운 결과 사진 입니다|
 
 ## Contact 
