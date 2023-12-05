@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
- |[독도를 소개하는 앱입니다.](https://dockdointroduce.netlify.app/)|9주차|독도를 소개하는 앱<br>(참고한 회사 사이트 [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))  |
+ |[독도를 소개하는 앱입니다.](https://dockdointroduce.netlify.app/)|9주차|[페이지 띄우는데 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general) |
 
  <p align="center">
   📞 Contact 📞
