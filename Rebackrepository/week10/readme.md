@@ -4,7 +4,7 @@
 # repository explanation
 10주차 파일을 다시 꾸민 리드미 파일이고, 회사 cal을 만들기 위해 만든 사이트입니다.
 
-# use language
+# Language of repository📚
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
