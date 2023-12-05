@@ -13,9 +13,7 @@
   📞82-010-3037-9096📞
 </p>
 
-<p align="center">![스크린샷 2023-12-05 233117](https://github.com/do04200611/CORODOVA/assets/74278578/9622bcd0-ae5e-4d6d-a601-18ec1216e2bc)
-
-
+<p align="center">
  <a href="https://www.canva.com/design/DAFzY5opUiA/Ge33dSKE16cErBaDJDp-BA/edit">
     <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva" alt="canva">
   </a>
