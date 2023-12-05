@@ -18,7 +18,6 @@
 
 #  📞 Contact 📞
  <p align="center">
-  📞 Contact 📞
   📞82-010-3037-9096📞
 </p>
 
