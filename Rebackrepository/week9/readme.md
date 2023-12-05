@@ -10,7 +10,7 @@
 
 ![스크린샷 2023-12-05 233117](https://github.com/do04200611/CORODOVA/assets/74278578/f7ac624a-b4e9-4b78-a930-bb913337001d)
 ![스크린샷 2023-12-05 233314](https://github.com/do04200611/CORODOVA/assets/74278578/9f0f6bf5-4ca9-4205-a947-6d298284c331)
-![스크린샷 2023-12-05 233117](https://github.com/do04200611/CORODOVA/assets/74278578/ede81e3b-30b2-4298-a07c-bf119988bd24)
+
 
 
  <p align="center">
