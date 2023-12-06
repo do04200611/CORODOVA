@@ -1,4 +1,4 @@
-실습 결과
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=10주차%20회사%20소개%20앱)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Challenge+And+Lead)](https://git.io/typing-svg)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -7,7 +7,7 @@
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
  |[독도를 소개하는 앱입니다.](https://dockdointroduce.netlify.app/)|9주차|[페이지 띄우는데 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general) |
-
+실습 결과
 ![스크린샷 2023-12-05 233117](https://github.com/do04200611/CORODOVA/assets/74278578/f7ac624a-b4e9-4b78-a930-bb913337001d)
 ![스크린샷 2023-12-05 233314](https://github.com/do04200611/CORODOVA/assets/74278578/9f0f6bf5-4ca9-4205-a947-6d298284c331)
 
