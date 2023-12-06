@@ -13,6 +13,7 @@
  <br>![image](https://github.com/do04200611/CORODOVA/assets/74278578/08af2403-019d-47cd-a41c-e433283249d7)
  <br> 
  ![image](https://github.com/do04200611/CORODOVA/assets/74278578/c360ebf6-2c9e-4b09-9f8e-3cfab4df907d)
+![스크린샷 2023-12-06 162536](https://github.com/do04200611/CORODOVA/assets/74278578/c327a978-53f4-4589-b1af-a27a9110ea70)
 
 # click page
 
