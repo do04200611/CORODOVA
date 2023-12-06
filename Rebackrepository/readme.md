@@ -8,6 +8,12 @@
 ## Introduction to repositories 
 모바일 수업하면서 들었던 과제를 올려놓았던 레파지토리에서 수정된  레파지토리입니다.
 
+# 각 주차 별 대표 result
+![스크린샷 2023-12-06 155819](https://github.com/do04200611/CORODOVA/assets/74278578/31b7d4ab-9d8f-46da-bf20-87f818abd4a0)
+![스크린샷 2023-12-06 160005](https://github.com/do04200611/CORODOVA/assets/74278578/fa797abe-41a2-474c-86aa-930ecc5fe014)
+![스크린샷 2023-12-05 233314](https://github.com/do04200611/CORODOVA/assets/74278578/fe85c42a-bb72-4dcf-a8d3-558b00a099ae)
+
+![스크린샷 2023-12-05 233540](https://github.com/do04200611/CORODOVA/assets/74278578/c2328ac7-a566-4f02-8484-c36c3ae77494)
 
 
  # project
