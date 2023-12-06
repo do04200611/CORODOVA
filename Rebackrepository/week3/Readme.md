@@ -20,8 +20,8 @@
 
  | ポートフォリオ           |  作る期間     |            説明  |
   |------------------------|---------------|----------------------------------------------|
-  |[저를 소개하는 웹 페이지](https://myintroducepage.netlify.app/)|09月|ウェブバージョン|
-  |[연습 문제 결과를 확인하는 웹 페이지](https://mobileweek3question.netlify.app/)|09月|ウェブバージョン|
+  |[저를 소개하는 웹 페이지](https://myintroducepage.netlify.app/)|09月|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 만든 저를 소개하는 웹 페이지|
+  |[연습 문제 결과를 확인하는 웹 페이지](https://mobileweek3question.netlify.app/)|09月|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 만든 연습 문제|
 
 ## 📞Contact 
 
