@@ -13,9 +13,10 @@
  |[저를 소개하는 앱입니다.](https://myintroduce.netlify.app/)|5주차|[참고 자료](https://www.booksr.co.kr/product/9788970508863/)<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
 
 # project result 
-![스크린샷 2023-12-06 142848](https://github.com/do04200611/CORODOVA/assets/74278578/bdaadaf4-2baa-4fef-ac80-0b26fad77cd8)
-![스크린샷 2023-12-06 142918](https://github.com/do04200611/CORODOVA/assets/74278578/ee776290-661d-471a-8625-1fb121d54b86)
-![스크린샷 2023-12-06 143023](https://github.com/do04200611/CORODOVA/assets/74278578/fe5334ce-f0b5-4054-9bad-801efd14750e)
+![스크린샷 2023-12-06 155956](https://github.com/do04200611/CORODOVA/assets/74278578/32b103ef-3dc6-4e32-b02d-44deae75789b)
+
+![스크린샷 2023-12-06 160005](https://github.com/do04200611/CORODOVA/assets/74278578/91a3b8aa-f619-4913-a58a-75d47edfa005)
+![스크린샷 2023-12-06 155945](https://github.com/do04200611/CORODOVA/assets/74278578/9d1bcee0-ffef-4711-8ac6-ac47a1d25032)
 
 
 #  📞 Contact 📞
