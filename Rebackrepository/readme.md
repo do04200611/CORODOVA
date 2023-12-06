@@ -12,8 +12,7 @@
 ![스크린샷 2023-12-06 155819](https://github.com/do04200611/CORODOVA/assets/74278578/31b7d4ab-9d8f-46da-bf20-87f818abd4a0)
 ![스크린샷 2023-12-06 160005](https://github.com/do04200611/CORODOVA/assets/74278578/fa797abe-41a2-474c-86aa-930ecc5fe014)
 ![스크린샷 2023-12-06 163018](https://github.com/do04200611/CORODOVA/assets/74278578/28ddcdef-36a8-42f7-996d-42cbc380323c)
-![스크린샷 2023-12-06 162833](https://github.com/do04200611/CORODOVA/assets/74278578/023610aa-0834-49e0-9678-af9a21a2f18d)
-
+![스크린샷 2023-12-06 163411](https://github.com/do04200611/CORODOVA/assets/74278578/0dd52e06-ca03-4ebd-881a-cfcdb9687f24)
 
  # project
 
