@@ -18,11 +18,11 @@
  <br> 
  ![image](https://github.com/do04200611/CORODOVA/assets/74278578/c360ebf6-2c9e-4b09-9f8e-3cfab4df907d)
 
-
+ | ポートフォリオ           |  作る期間     |            説明  |
+  |------------------------|---------------|----------------------------------------------|
+  |<a href="https://do04200611.github.io/CORODOVA/week3/report/index.html" alt="canva"></a>|09月|ウェブバージョン|
 
 ## 📞Contact 
-
-
 
 <p align="center">
   📞82-010-3037-9096📞<br>
