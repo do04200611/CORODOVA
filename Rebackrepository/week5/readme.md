@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
- |[저를 소개하는 앱입니다.](https://myintroduce.netlify.app/)|5주차|[참고 자료:](https://www.booksr.co.kr/product/9788970508863/)<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
+ |[저를 소개하는 앱입니다.](https://myintroduce.netlify.app/)|5주차|[참고 자료](https://www.booksr.co.kr/product/9788970508863/)<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
 
 # project result 
 ![스크린샷 2023-12-05 233454](https://github.com/do04200611/CORODOVA/assets/74278578/0da5bdfa-2e44-48d7-a92c-be84ef192621)
