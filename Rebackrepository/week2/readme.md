@@ -8,7 +8,9 @@
 # Introduction to repositories 
 # 2주차에서 내주신 수업 과제를 모아놓은 파일입니다.
 
+# result
 
+![스크린샷 2023-12-06 155819](https://github.com/do04200611/CORODOVA/assets/74278578/ce6ce22a-2f48-467f-849a-f824d3a8eb0d)
 
  # project
 
