@@ -1,10 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=10주차%20회사%20소개%20앱)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=9주차%20독도%20소개%20앱)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Challenge+And+Lead)](https://git.io/typing-svg)<br>
+
+## Language of repository📚
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+# repository explation
+9주차의 과제를 다시 올려놓은 레파지토리입니다.
 # click page
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
