@@ -11,7 +11,8 @@
 
 # project result 
 ![스크린샷 2023-12-05 233454](https://github.com/do04200611/CORODOVA/assets/74278578/0da5bdfa-2e44-48d7-a92c-be84ef192621)
-![스크린샷 2023-12-05 233540](https://github.com/do04200611/CORODOVA/assets/74278578/7159ed2c-2075-4d3c-be79-f140d86e8d0c)
+
+![스크린샷 2023-12-06 163018](https://github.com/do04200611/CORODOVA/assets/74278578/1ff419b5-adb9-4f0d-aa85-646fe818d09c)
 
 # click page
 
