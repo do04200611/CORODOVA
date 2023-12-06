@@ -25,4 +25,4 @@
    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
  </a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=100&text=Thank%20you%20for%20watching.&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&text=Thank%20you%20for%20watching.&section=footer" />
