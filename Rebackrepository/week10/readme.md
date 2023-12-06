@@ -10,9 +10,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # project result 
-![스크린샷 2023-12-05 233454](https://github.com/do04200611/CORODOVA/assets/74278578/0da5bdfa-2e44-48d7-a92c-be84ef192621)
+![스크린샷 2023-12-06 163411](https://github.com/do04200611/CORODOVA/assets/74278578/5c40b50f-b701-4814-ad90-74328659e4e1)
+![스크린샷 2023-12-06 163404](https://github.com/do04200611/CORODOVA/assets/74278578/535f891e-bcc8-467e-9119-7055a4b3e0b4)
 
-![스크린샷 2023-12-06 163018](https://github.com/do04200611/CORODOVA/assets/74278578/1ff419b5-adb9-4f0d-aa85-646fe818d09c)
 
 # click page
 
