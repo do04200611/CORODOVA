@@ -11,9 +11,8 @@
 # 각 주차 별 대표 result
 ![스크린샷 2023-12-06 155819](https://github.com/do04200611/CORODOVA/assets/74278578/31b7d4ab-9d8f-46da-bf20-87f818abd4a0)
 ![스크린샷 2023-12-06 160005](https://github.com/do04200611/CORODOVA/assets/74278578/fa797abe-41a2-474c-86aa-930ecc5fe014)
-![스크린샷 2023-12-05 233314](https://github.com/do04200611/CORODOVA/assets/74278578/fe85c42a-bb72-4dcf-a8d3-558b00a099ae)
-
-![스크린샷 2023-12-05 233540](https://github.com/do04200611/CORODOVA/assets/74278578/c2328ac7-a566-4f02-8484-c36c3ae77494)
+![스크린샷 2023-12-06 163018](https://github.com/do04200611/CORODOVA/assets/74278578/28ddcdef-36a8-42f7-996d-42cbc380323c)
+![스크린샷 2023-12-06 162833](https://github.com/do04200611/CORODOVA/assets/74278578/023610aa-0834-49e0-9678-af9a21a2f18d)
 
 
  # project
