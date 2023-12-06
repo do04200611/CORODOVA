@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
- |[cal 주식회사를 소개하는 앱입니다.](https://calcompany.netlify.app/)|10주차|회사를 소개하는 앱<br>(참고한 회사 사이트 [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
+ |[cal 주식회사를 소개하는 앱입니다.](https://calcompany.netlify.app/)|10주차|회사를 소개하는 앱<br>( [참고한 회사 사이트 CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
 
 # project result 
 ![스크린샷 2023-12-05 233454](https://github.com/do04200611/CORODOVA/assets/74278578/0da5bdfa-2e44-48d7-a92c-be84ef192621)
