@@ -20,7 +20,7 @@
 
  | ポートフォリオ           |  作る期間     |            説明  |
   |------------------------|---------------|----------------------------------------------|
-  |<a href="https://do04200611.github.io/CORODOVA/week3/report/index.html" alt="canva"></a>|09月|ウェブバージョン|
+  |[저를 소개하는 웹 페이지](https://do04200611.github.io/CORODOVA/week3/report/index.html)|09月|ウェブバージョン|
 
 ## 📞Contact 
 
