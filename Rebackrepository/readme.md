@@ -15,7 +15,7 @@
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
   |[저를 소개하는 페이지입니다.](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit) |2주차|프로젝트 툴 ![canva](https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva) 사용 |
-  | [저를 소개하는 웹 페이지입니다.](https://do04200611.github.io/CORODOVA/week3/report/index.html)|3주차 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 자기소개글  |
+  | [저를 소개하는 웹 페이지입니다.](https://myintroducepage.netlify.app/)|3주차 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 자기소개글  |
    | [연습 문제를 푼 웹 페이지입니다.](https://mobileweek3question.netlify.app/)|3주차 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)과 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)를 이용해서 만든 연습 문제 |
   |[2023년 1학기 모바일 호스트 페이지입니다.](https://www.youtube.com/watch?v=k3KVArHfM6E)|5주차|페이지네이션을 이용한 자기소개글 |
    |[갤러리를 소개한 웹 페이지](https://dockdointroduce.netlify.app/)|9주차|자바스크립트와 제이쿼리를 이용하여 갤러리 꾸미기|
