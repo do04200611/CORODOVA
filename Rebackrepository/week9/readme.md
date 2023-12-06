@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # result
-![스크린샷 2023-12-05 233117](https://github.com/do04200611/CORODOVA/assets/74278578/f7ac624a-b4e9-4b78-a930-bb913337001d)
+![스크린샷 2023-12-05 233314](https://github.com/do04200611/CORODOVA/assets/74278578/9f0f6bf5-4ca9-4205-a947-6d298284c331)
 ![스크린샷 2023-12-06 164157](https://github.com/do04200611/CORODOVA/assets/74278578/a7832b43-adb2-4103-8ebc-b070a22e3656)
 
 
