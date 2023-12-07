@@ -5,8 +5,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-## Introduction to repositories 
-모바일 수업하면서 들었던 과제를 올려놓았던 레파지토리에서 수정된  레파지토리입니다.
+# Introduction to repositories 
+저희 학과를 소개하는 레파지토리를 만들었습니다.
 
 # result 
 ![스크린샷 2023-12-07 121030](https://github.com/do04200611/CORODOVA/assets/74278578/b105b208-b553-4df3-9902-d78a67e8832b)
