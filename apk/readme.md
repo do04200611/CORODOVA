@@ -9,7 +9,10 @@
 # Introduction to repositories 
 웹 앱을 apk로 다운 받을 수 있도록 모아놓은 파일입니다. 
 
+#result
 
+![스크린샷 2023-12-09 114435](https://github.com/do04200611/CORODOVA/assets/74278578/b1015c37-927f-4dea-8fe7-8bf7ce46c5ef)
+![스크린샷 2023-12-09 085047](https://github.com/do04200611/CORODOVA/assets/74278578/5c1e3cf3-79f4-4283-a158-603ee5ff6d2c)
 
  # project
 
