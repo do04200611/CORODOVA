@@ -9,7 +9,8 @@
 	<link rel="stylesheet" href="./lib/jquery.mobile-1.4.5.min.css"/>
 	<script src="./lib/jquery-1.11.1.min.js"></script>
 	<script src="./lib/jquery.mobile-1.4.5.min.js"></script>
-	
+	<script defer src = "index.js"></script>
+	<script defer src = "https://maps.googleapis.com/maps/api/js?key=<AIzaSyAOVDTXSyqSVjeCNdp0fU_GJ5XHiszG_fE>&callback=initMap" ></script>
 </head>
 <body>
 	<div data-role="page">
@@ -33,6 +34,8 @@
 				<li id="item">入国前からよくメールなどで連絡を取り合っていたので、入国時は不安感が期待に変わりました。</li>
 			</ul>
 		</div>	
+		<div id="map" style="height: 600px;">
+		</div>
 		<div data-role="footer" data-position="fixed">
 			<h4>CALキャル株式会社</h4>
 		</div>
