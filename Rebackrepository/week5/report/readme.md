@@ -9,5 +9,5 @@
 
 | プロジェクト名           | 期間          | 説明                 |
 |------------------------|---------------|--------------------|
-|[실습영상올린youtube](https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA) |5주차|실습 올린 영상|
-|[저를 소개하는 자료](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit||5주차|실습 올린 영상|
+|[실습 영상올린 youtube](https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA) |5주차|실습 올린 영상|
+|[저를 소개하는 자료](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit)||5주차|실습 올린 영상|
