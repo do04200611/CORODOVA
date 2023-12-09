@@ -9,8 +9,8 @@
 저희 학과를 소개하는 레파지토리를 만들었습니다.
 
 # result 
-![스크린샷 2023-12-07 121030](https://github.com/do04200611/CORODOVA/assets/74278578/b105b208-b553-4df3-9902-d78a67e8832b)
-![스크린샷 2023-12-07 121038](https://github.com/do04200611/CORODOVA/assets/74278578/b147ff21-2728-438f-bc72-a715b6a19e24)
+![스크린샷 2023-12-09 154806](https://github.com/do04200611/CORODOVA/assets/74278578/0fe51f21-c62d-4013-afbd-32030d6b7443)
+![스크린샷 2023-12-09 154800](https://github.com/do04200611/CORODOVA/assets/74278578/f726790b-3eb1-417a-8623-e2d8df8990d6)
 ![스크린샷 2023-12-07 121100](https://github.com/do04200611/CORODOVA/assets/74278578/79d2ab31-41ca-4785-91a7-cfcc6eb51baa)
 
 
