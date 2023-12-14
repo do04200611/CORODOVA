@@ -20,6 +20,8 @@
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
  |[저를 소개하는 앱입니다.](https://ganghyeoncareer.netlify.app/)|5주차|[참고 자료](https://www.booksr.co.kr/product/9788970508863/)<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
+  | [portpolio](https://www.canva.com/design/DAF2N68F3AE/g6-CyNAsuuUrFMo4GOmd8g/edit)|14주차|프로젝트 결과를 정리한 발표 자료 입니다|
+
 
 
 #  📞 Contact 📞
