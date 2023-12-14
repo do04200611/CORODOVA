@@ -19,6 +19,8 @@
  | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
  |[독도를 소개하는 앱입니다.](https://dockdointroduce.netlify.app/)|9주차|[페이지 띄우는데 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general) |
+ | [portpolio](https://www.canva.com/design/DAF2N68F3AE/g6-CyNAsuuUrFMo4GOmd8g/edit)|14주차|프로젝트 결과를 정리한 발표 자료 입니다|
+
 
 # 📞 Contact 
  <p align="center">
