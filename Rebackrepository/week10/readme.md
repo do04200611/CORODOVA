@@ -19,6 +19,7 @@
 | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
  |[cal 주식회사를 소개하는 앱입니다.](https://calcompany.netlify.app/)|10주차|회사를 소개하는 앱<br>참고한 회사 사이트<br> [CALキャル株式会社・CAL주식회사](https://cal.co.jp/about/business/it/))<br> [또다른 참고한 사이트](https://app.netlify.com/sites/dockdointroduce/configuration/general)|
+ | [portpolio](https://www.canva.com/design/DAF2N68F3AE/g6-CyNAsuuUrFMo4GOmd8g/edit)|14주차|프로젝트 결과를 정리한 발표 자료 입니다|
 
 #  📞 Contact 
  <p align="center">
