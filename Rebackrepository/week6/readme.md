@@ -19,6 +19,8 @@
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
   |[학과를 소개하는 페이지입니다.](https://mobilecomputer.netlify.app/) |6주차|동의과학대를 소개하는 페이지입니다.|
+  | [portpolio](https://www.canva.com/design/DAF2N68F3AE/g6-CyNAsuuUrFMo4GOmd8g/edit)|14주차|프로젝트 결과를 정리한 발표 자료 입니다|
+
 # Contact 
 
 <p align="center">
