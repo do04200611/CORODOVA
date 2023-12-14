@@ -19,6 +19,8 @@
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
   | [저를 소개하는 페이지](https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit) |2주차|프로젝트 툴 ![canva](https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva) 사용 |
+   | [portpolio](https://www.canva.com/design/DAF2N68F3AE/g6-CyNAsuuUrFMo4GOmd8g/edit)|14주차|프로젝트 결과를 정리한 발표 자료 입니다|
+
 
 # 📞Contact 
 
