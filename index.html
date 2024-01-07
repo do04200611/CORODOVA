@@ -1,102 +1,443 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" href="index.css">
-    <meta chraset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pratice</title>
-  </head>
-  <body>
-    
-    <!-- Image display with a hyperlink -->
-    <!--학교 홈페이지로 이동시키는 코드 -->
-    <a href="https://www.dit.ac.kr/kr">
-      <img class="image" src="https://i.namu.wiki/i/3aLWeLRv7F_yqLovaN5TyyuQvP33rDQC1gygNpSN9efhTzBsBG4WTdTK-vZDT0vaDDLaP45do6scdbur4xk2Mg.svg"/>
-    </a>
-    
-     <!--학과 홈페이지로 이동시키는 코드 -->
-     <a href="https://www.dit.ac.kr/cs/">
-      <img class="image" src="data:image/png;base64,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"/>
-    </a>
-    
-   <!--해당 호스팅 페이지 github 레파지토리로 이동시키는 코드 -->
-    <a href="https://github.com/do04200611/CORODOVA/tree/main">
-      <img class="image" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-    </a>
-    
-   <!--해당 호스팅 페이지 github로 이동시키는 코드 -->
-    <a href="https://github.com/do04200611">
-      <img class="image" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-    </a>
-    
-    <!--김강현의 IT 학습 체널로 이동시키는 코드 -->
-    <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
-      <img  class="image" src="https://i.pinimg.com/originals/24/24/12/242412a32af5cca3cb114cfee0cd3d8b.png"/>
-    </a>
-    <button id="menu-button">메뉴 열기</button>
-    <div class="hidden vertical menu">
-      <a href="https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit" class="button">2주차</a>
-      <a href="https://myintroducepage.netlify.app/" class="button">3주차</a>
-      <a href="https://mobileweek3question.netlify.app/" class="button">3주차 연습 문제</a>
-      <a href="https://ganghyeoncareer.netlify.app/" class="button">5주차</a>
-      <a href="https://mobilecomputer.netlify.app/" class="button">6주차</a>
-       <a href="https://canva.com/design/DAFvPmStsCI/cBO4v45eb89npMEg7qsFoQ/edit" class="button">git에 소스코드로 파일들 올리기</a>
-       <a href="https://dockdointroduce.netlify.app/" class="button">9주차</a>
-      <a href="https://calcompany.netlify.app/" class="button">10주차</a>
-      <a href="./week11/스크린샷 2023-11-26 101950.png" class="button">11주차</a>
-      <a href="개인정보 처리방침 작성지침(일반) (1).pdf" class="button">개인 정보 처리 방침 작성지침침</a>
-      <a href="gitsourcecode/git.pdf" class="button">git에 대한 자료</a>
-   
-    </div>
-    <p id="changingText">私は多読です。</p>
 
-     
-  
-      <div class="vertical-menu">
-        <div class="button-row">
-          <button class="hostingpagebutton" id="toggleButton1">다른 호스팅 페이지</button>
-          <button class="hostingpagebutton" id="toggleButton2">그 외 김강현의 관해서 보고 싶다면...</button>
-          <button class="hostingpagebutton" id="toggleButton3">호스팅 페이지에 대해서 알고 싶다면.....</button>
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title> kimganghyeon's Git hosting Page  </title>
+
+  <!--owl slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <!-- fonts awesome style -->
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,500,700&display=swap" rel="stylesheet" />
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="contact_nav_container">
+        <div class="container">
+          <div class="contact_nav">
+            <a href="mailto:a01030379096@gmail.com">
+              <span>
+                  Address : Korea, Busan
+              </span>
+            </a>
+            <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
+              <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
+            </a>
+              <a href="mailto:a01030379096@gmail.com">
+                <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
+              </a>
+            <a href="">
+              <span>
+                📞82-010-3037-9096📞
+              </span>
+            </a>
+        
+          </div>
         </div>
       </div>
-    <!--호스팅페이지로 이동하는 코드 -->
-    <div class="hidden" id="hiddenButtons1">
-      <a href="https://do04200611.github.io/MobilePorjectReport/" class="button">2023년 1학기 모바일 프로젝트 호스트 페이지</a>
-      <a href="https://do04200611.github.io/BackEndTeamProject/" class="button">2023년 1학기 백앤드 팀 프로젝트 호스트 페이지</a>
-      <a href="https://do04200611.github.io/JavaScript/" class="button">2023년 1학기 과제 호스트 페이지</a>
-      <a href="https://do04200611.github.io/arduino/" class="button">2023년 2학기에 배운 nodemcu를 활용 호스트 페이지</a>
-      <a href="https://do04200611.github.io/otherdata/" class="button">2023년 2학기에 배운 모바일 과제 모아놓은 호스페이지</a>
-      <a href="https://do04200611.github.io/otherdata/" class="button">다른 언어를 쓰지 않으면서 배운 자료들</a>
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <div class="custom_menu-btn">
+            <button onclick="openNav()">
+              <span class="s-1"> </span>
+              <span class="s-2"> </span>
+              <span class="s-3"> </span>
+            </button>
+          </div>
+          <div id="myNav" class="overlay">
+            <div class="menu_btn-style ">
+              <button onclick="closeNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div class="overlay-content">
+              <a class="active" href="index.html"> Home <span class="sr-only">(current)</span></a>
+              <a class="" href="team.html"> page of repository Team</a>
+              <a class="" href="testimonial.html"> Other Page
+              </a>
+            </div>
+          </div>
+          <a class="navbar-brand" href="index.html">
+            <span>
+              kimganghyeon's Git hosting Page
+            </span>
+          </a>
+          <div class="user_option">
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+   
+  
+
+  <!-- team section -->
+
+  <section class="team_section" >
+    <div class="carousel-wrap ">
+      <div class="owl-carousel team_carousel">
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team1.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                2주차
+              </h6>
+              <div class="social_box">
+                <a href="https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit">
+                </a>  
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team2.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                3주차
+              </h6>
+              <div class="social_box">
+                <a href="https://myintroducepage.netlify.app/">
+                </a>  
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team3.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                3주차 연습 문제
+              </h6>
+              <div class="social_box">
+                <a href="https://mobileweek3question.netlify.app/">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team4.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                5주차
+              </h6>
+              <div class="social_box">
+                <a href="https://ganghyeoncareer.netlify.app/">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team5.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                6주차
+              </h6>
+              <div class="social_box">
+                <a href="https://mobilecomputer.netlify.app/">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team5.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                9주차
+              </h6>
+              <div class="social_box">  
+                <a href="https://dockdointroduce.netlify.app/">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team5.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                10주차
+              </h6>
+              <div class="social_box">  
+                <a href="https://calcompany.netlify.app/">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team5.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                11주차
+              </h6>
+              <div class="social_box">  
+                <a href="https://do04200611.github.io/CORODOVA/week11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-26%20101950.png">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/team2.jpg" alt="" />
+            </div>
+            <div class="detail-box">
+              <h6>
+                git에 소스코드로 파일들 올리기
+              </h6>
+              <div class="social_box">
+                <a href="https://canva.com/design/DAFvPmStsCI/cBO4v45eb89npMEg7qsFoQ/edit">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    
-    <div class="hidden" id="hiddenButtons2">
-      <a href="https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit" class="button">git sourcecode 파일 올리기</a>
-       <a href="https://www.canva.com/design/DAFvPmStsCI/cBO4v45eb89npMEg7qsFoQ/edit" class="button">자기 소개 파일</a>
-       <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA" class="button">김강현의 IT 학습</a>
-      <a href="https://do04200611.github.io/otherdata/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%84%A4%EA%B3%84(%EB%8F%84%EC%84%9C%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC%20%EC%95%B1)202032291%EA%B9%80%EA%B0%95%ED%98%84.pdf" class="button">시스템 분석 및 설계 자료</a>
+  </div>
+  </section>
+
+  <!-- end team section -->
+
+
+  <!-- client section -->
+
+  <section class="client_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          Testimonial
+        </h2>
+      </div>
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="box">
+              <div class="img-box">
+                <img src="images/client.jpg" alt="" />
+              </div>
+              <div class="client_detail">
+                <div class="client_name">
+                  <div class="client_info">
+                    <a href="https://do04200611.github.io/MobilePorjectReport/">
+                      <h4>
+                        2023년 1학기 모바일 프로젝트 호스트 페이지
+                      </h4>
+                    </a>
+                    <span>
+                      Parante
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="box">
+              <div class="img-box">
+                <img src="images/client.jpg" alt="" />
+              </div>
+              <div class="client_detail">
+                <div class="client_name">
+                  <div class="client_info">
+                    <a href="https://do04200611.github.io/BackEndTeamProject/">
+                      <h4>
+                        2023년 1학기 백앤드 팀 프로젝트 호스트 페이지
+                      </h4>
+                    </a>
+                    <span>
+                      Parante
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="box">
+              <div class="img-box">
+                <img src="images/client.jpg" alt="" />
+              </div>
+              <div class="client_detail">
+                <div class="client_name">
+                  <div class="client_info">
+                    <a href="https://do04200611.github.io/arduino/">
+                      <h4>
+                        2023년 1학기 백앤드 팀 프로젝트 호스트 페이지
+                      </h4>
+                    </a>
+                    <span>
+                      Parante
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="box">
+              <div class="img-box">
+                <img src="images/client.jpg" alt="" />
+              </div>
+              <div class="client_detail">
+                <div class="client_name">
+                  <div class="client_info">
+                    <a href="https://do04200611.github.io/otherdata/">
+                      <h4>
+                        2023년 2학기에 배운 모바일 과제 모아놓은 호스페이지
+                      </h4>
+                    </a>
+                    <span>
+                      Parante
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="box">
+              <div class="img-box">
+                <img src="images/client.jpg" alt="" />
+              </div>
+              <div class="client_detail">
+                <div class="client_name">
+                  <div class="client_info">
+                    <a href="https://do04200611.github.io/JavaScript/">
+                      <h4>
+                        2023년 1학기 과제 호스트 페이지
+                      </h4>
+                    </a>
+                    
+                    <span>
+                      Parante
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        </ol>
+      </div>
     </div>
-      <div class="hiddenButtons3">
-      <a href="https://www.canva.com/design/DAFuYuBgZUs/s-JmJg43upgSn_3hA5ckbg/edit" class="button">2주차</a>
-      <a href="https://myintroducepage.netlify.app/" class="button">3주차</a>
-      <a href="https://mobileweek3question.netlify.app/" class="button">3주차 연습 문제</a>
-      <a href="https://ganghyeoncareer.netlify.app/" class="button">5주차</a>
-      <a href="https://mobilecomputer.netlify.app/" class="button">6주차</a>
-      <a href="https://canva.com/design/DAFvPmStsCI/cBO4v45eb89npMEg7qsFoQ/edit" class="button">git에 소스코드로 파일들 올리기</a>
-      <a href="https://dockdointroduce.netlify.app/" class="button">9주차</a>
-      <a href="https://calcompany.netlify.app/" class="button">10주차</a>
-      <a href="./week11/스크린샷 2023-11-26 101950.png" class="button">11주차</a>
-      <a href="개인정보 처리방침 작성지침(일반) (1).pdf" class="button">개인 정보 처리 방침 작성지침침</a>
-      <a href="gitsourcecode/git.pdf" class="button">git에 대한 자료</a>
+  </section>
+
+  <!-- end client section -->
+
+  <!-- info section -->
+
+  <section class="info_section layout_padding2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="info_contact">
+            <span>
+              Address : Korea, Busan
+          </span><br>
+        <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
+          <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
+        </a>
+          <a href="mailto:a01030379096@gmail.com">
+            <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
+          </a><br>
+          <span>
+            📞82-010-3037-9096📞
+          </span>
+            </div>
+          </div>
+
+        </div>
+        <div class="col-md-4">
+          <div class="info_link_box">
+            <h5>
+              Navigation
+            </h5>
+            <div class="info_links">
+              <a class="active" href="index.html"> <i class="fa fa-angle-right" aria-hidden="true"></i> Home <span class="sr-only">(current)</span></a>
+              <a class="" href="about.html"> <i class="fa fa-angle-right" aria-hidden="true"></i>page of repository</a>
+              <a class="" href="team.html"> <i class="fa fa-angle-right" aria-hidden="true"></i> Other Page</a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    <div id="player">
-    </div>
-    <div class="vertical-menu">
-    <div class="button-row">
-      <button id="previousButton">이전</button>
-      <script src="https://www.youtube.com/iframe_api"></script>
-      <button id="nextButton">다음</button>
-    </div>
-    </div>
-    <script type="text/javascript" src="index.js"></script> 
-    </body>
+  </section>
+
+  <!-- end info section -->
+
+  <!-- footer section -->
+  <footer class="footer_section container-fluid">
+    <p>
+      &copy; <span id="displayYear"></span> All Rights Reserved. Design by
+      <a href="https://html.design/">Free Html Templates</a>
+    </p>
+  </footer>
+  <!-- footer section -->
+
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+  <script src="js/custom.js"></script>
+
+</body>
+
 </html>
